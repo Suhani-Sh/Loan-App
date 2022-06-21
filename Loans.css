@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(225, 225, 235);
+}
+h1{
+    text-align:center;
+    color:blue;
+
+}
+
+.one img{
+    height:150px;
+    width:320px;
+    float:left;
+}
+.one p{
+    color:crimson;
+    font-weight: bolder;
+}
+.two img{
+    height:150px;
+    width:320px;
+   float: left;
+}
+.two p{
+    color:crimson;
+    font-weight: bolder;
+}
+.third img{
+    height: 150px;
+    width:320px;
+     float:left;
+}
+.third p{
+    color:crimson;
+    font-weight: bolder;
+}
